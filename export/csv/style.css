@@ -1,0 +1,14 @@
+
+/* Container */
+.container{
+    width:40%;
+    margin:0 auto;
+}
+
+table{
+    margin-top: 10px;
+}
+table th,td{
+    padding: 5px;
+}
+
